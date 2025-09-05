@@ -1,3 +1,4 @@
 .env
 venv
 .venv
+gpt2_finetuned.keras
